@@ -5,6 +5,7 @@ This is a cheat-sheet for system design interviews.
 ## Content
 
 ### Basics
+  * [Intro](https://github.com/kkufieta/system-design-interview/blob/main/system-design-overview.md)
   * Distributed systems
   * Load balancing
   * Caching
